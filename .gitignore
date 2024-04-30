@@ -1,0 +1,4 @@
+# Exclude Stata data files and temp files from the repo
+*.dta 
+*.tmp
+*.db
